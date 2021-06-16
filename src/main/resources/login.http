@@ -1,0 +1,10 @@
+POST http://localhost:8888/api/login
+Accept : application/json
+Content-Type: application/json
+
+{
+  "Id" : "1",
+  "username" : "Java工程师",
+  "password" : "123456"
+}
+
